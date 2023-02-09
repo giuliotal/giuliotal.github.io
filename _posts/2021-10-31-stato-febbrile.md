@@ -1,7 +1,7 @@
 ---
 title: "Stato febbrile"
 layout: post
-excerpt_separator: "Riflessioni gelide"
+description: "Riflessioni gelide"
 ---
 
 ![](/assets/images/stato-febbrile.jpg)
