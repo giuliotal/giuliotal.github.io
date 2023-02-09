@@ -1,7 +1,8 @@
 ---
 title: "Stato febbrile"
 layout: post
-categories: media
+excerpt: 
+image: /assets/images/stato-febbrile.jpg
 ---
 
 ![](/assets/images/stato-febbrile.jpg)
