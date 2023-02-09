@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 
 ![](/assets/images/ode-gassosa.jpg)
 
+<!--more-->
+
 Un gorgoglio, un tumulto
 Presagio di mobilità
 Non è vero che nulla si distrugge
