@@ -1,12 +1,10 @@
 ---
 title: "Stato febbrile"
 layout: post
-excerpt_separator: <!--more-->
+excerpt_separator: "Riflessioni gelide"
 ---
 
 ![](/assets/images/stato-febbrile.jpg)
-
-<!--more-->
 
 In uno stato febbrile, il cittadino gode di un limitato statuto delle libertà (purtroppo non sono ancora arrivati gli effetti della rivoluzione francese). Ad esempio, una delle libertà che innanzitutto viene a mancare, è la libertà di decidere cosa fare nei prossimi dieci giorni: la programmazione, la vista lunga, non sono cose ben viste nello stato febbrile, anzi, proprio quando le cose tendono ad incastrarsi nonostante tutte le peripezie delle settimane precedenti, proprio quando: 
 
