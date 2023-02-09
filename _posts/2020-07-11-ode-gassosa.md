@@ -1,7 +1,6 @@
 ---
 title: "Ode gassosa"
 layout: post
-description: "Pensieri volatili"
 ---
 
 Un gorgoglio, un tumulto  

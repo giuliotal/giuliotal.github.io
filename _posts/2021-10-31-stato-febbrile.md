@@ -1,7 +1,6 @@
 ---
 title: "Stato febbrile"
 layout: post
-description: "Riflessioni gelide"
 ---
 
 ![](/assets/images/stato-febbrile.jpg)
