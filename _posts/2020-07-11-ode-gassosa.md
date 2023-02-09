@@ -4,8 +4,6 @@ layout: post
 description: "Pensieri volatili"
 ---
 
-<!--excerpt-->
-
 Un gorgoglio, un tumulto  
 Presagio di mobilità  
 Non è vero che nulla si distrugge  
