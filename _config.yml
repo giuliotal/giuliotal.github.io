@@ -3,7 +3,7 @@ author: "Giulio Talarico"
 description: "Un sito per contenere parole"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "<!--excerpt-->"
 date_format: "%d %B, %Y"
 
 # Layout
