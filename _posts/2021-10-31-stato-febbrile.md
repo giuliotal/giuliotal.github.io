@@ -1,4 +1,8 @@
-# STATO FEBBRILE
+---
+title: "Stato febbrile"
+layout: post
+categories: media
+---
 
 ![](/_images/stato-febbrile.jpg)
 
