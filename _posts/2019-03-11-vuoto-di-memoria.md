@@ -3,6 +3,8 @@ title: "Vuoto di memoria"
 layout: post
 ---
 
+![](/assets/images/vuoto-di-memoria.png)
+
 Manca qualcosa. Ok. Cerchiamo di fare mente locale. Forse dovevo controllare meglio nel reparto carne. Dio che fame. La prossima volta me la faccio portare a casa per poco non mi rompevo la schiena. Sono sicuro di avere una cazzo di ernia.
 
 Nessun movimento, Davide sarà uscito. Eppure sono quasi certo.
