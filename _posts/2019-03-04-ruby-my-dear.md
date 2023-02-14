@@ -3,6 +3,8 @@ title: "Ruby, my dear!"
 layout: post
 ---
 
+![](/assets/images/ruby-my-dear.png)
+
 Pioveva incessantemente. La città zuppa d'acqua in ogni suo angolo, in ogni suo vicolo, strada, viale. Piazza Santa Teresa era desolata, calpestata da qualche sfortunato che aveva imboccato la via di casa un po' troppo tardi, da qualche impavido giovane che nella pioggia ancora rimuginava sull'esame di *Matematica Computazionale* che aveva sostenuto la mattina stessa. La piazza scoperta soffriva il freddo di un autunno che solo adesso cominciava a mostrare la sua violenza. Poche auto, gente in fuga, una piazza nuda.
 
 Parlavano del passato, delle loro vite precedenti, linee continue con andamenti periodici, alcuni massimi relativi, qualche flesso. Si rideva. Era un modo di spezzare l'inquietudine che albergava insieme alle memorie delle prime cose andate male, alle quali ognuno di noi inizialmente lascia degli spazi grandi con la speranza che invece vadano bene.
