@@ -17,7 +17,7 @@ L'ossigeno della verità
 
 Una smorfia, una lieve inclinazione  
 Tradisce i fuggitivi  
-Maccha il cotone sudato  
+Macchia il cotone sudato  
 Di un crimine di libertà  
 
 Bere una coca cola non nasconderà  
