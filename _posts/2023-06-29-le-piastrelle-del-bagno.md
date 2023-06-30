@@ -17,7 +17,7 @@ Se ci penso ancora adesso rimango sbigottito, traumatizzato tanto quanto piacevo
 
 È sbilenco, è storto, irregolare.
 
-Sta lì. al centro di un altro quadrato nero, e non solo è storto ma è anche diverso piastrella per piastrella, con qualche ripetizione qua e là difficile da riconoscere. Ogni quadratino è sbilenco a modo suo. Sono stati lì tutti sbilenchi per un anno e non me l'avevano mai fatto notare.
+Sta lì, al centro di un altro quadrato nero, e non solo è storto ma è anche diverso piastrella per piastrella, con qualche ripetizione qua e là difficile da riconoscere. Ogni quadratino è sbilenco a modo suo. Sono stati lì tutti sbilenchi per un anno e non me l'avevano mai fatto notare.
 
 Come se questo pensiero non fosse abbastanza intenso da colpirmi il cranio con una lucidità stordente, nell'esatto momento in cui realizzo questa cosa, si innescano una serie di variazioni di potenziale elettrico all'interno del mio cervello tali da farmi capire che quel quadratino sbilenco sulla piastrella del bagno, avendo ormai perso la sua maschera da quadratino presumibilmente perfettamente simmetrico, mi ha scavato nell'anima e dalla mia anima nell'anima dell'essere umano e mi ha messo davanti una sensazione che mi gonfia la gabbia toracica di un etere trascendentale:
 
