@@ -1,6 +1,6 @@
-title: "Generico Blog"
+title: "Generica Pagina Web"
 author: "Giulio Talarico"
-description: "Un sito per contenere parole"
+description: "Una pagina web per contenere parole"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "<!--excerpt-->"
