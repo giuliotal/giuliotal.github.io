@@ -2,6 +2,7 @@
 .bundle
 .jekyll-cache
 .sass-cache
+.vscode
 Gemfile.lock
 _site
 *.gem
