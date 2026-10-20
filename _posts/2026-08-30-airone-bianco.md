@@ -11,7 +11,7 @@ L'epicentro energetico
 È uno smeraldo che cede il suo verde al blu  
 Plotoni di rarefatte macchie bianche  
 Prestano il loro giuramento  
-Per far sì che il segreto non mai venga svelato  
+Per far sì che il segreto non venga mai svelato  
 Ordunque si spostano convulsivamente  
 Insieme alla mia attenzione  
 Ogni rotazione  
